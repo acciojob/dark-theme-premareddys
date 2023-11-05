@@ -1,5 +1,7 @@
 #app{
   height:90vh;
+	text-align:center;
+	color:skyblue;
 }
 .night{
   background-color: black;
@@ -8,9 +10,12 @@
 
 #swap{
   outline:0;
+	
 }
-
 .button_night{
   background-color:blue;
   color:white; 
+}
+div:hover{
+	background-color:black;
 }
